@@ -1,0 +1,134 @@
+[
+  {
+    "userName": "dave012",
+    "password": "Password4!",
+    "firstName": "Dave",
+    "lastName": "Brown"
+  },
+  {
+    "userName": "jane_doe",
+    "password": "SecurePass1!",
+    "firstName": "Jane",
+    "lastName": "Doe"
+  },
+  {
+    "userName": "john_smith",
+    "password": "SafePass2@",
+    "firstName": "John",
+    "lastName": "Smith"
+  },
+  {
+    "userName": "alice_wonder",
+    "password": "WonderPass3#",
+    "firstName": "Alice",
+    "lastName": "Wonder"
+  },
+  {
+    "userName": "bob_builder",
+    "password": "BuilderPass5$",
+    "firstName": "Bob",
+    "lastName": "Builder"
+  },
+  {
+    "userName": "emma_jones",
+    "password": "JonesPass6%",
+    "firstName": "Emma",
+    "lastName": "Jones"
+  },
+  {
+    "userName": "liam_martin",
+    "password": "MartinPass7^",
+    "firstName": "Liam",
+    "lastName": "Martin"
+  },
+  {
+    "userName": "olivia_white",
+    "password": "WhitePass8*",
+    "firstName": "Olivia",
+    "lastName": "White"
+  },
+  {
+    "userName": "noah_lee",
+    "password": "LeePass9&",
+    "firstName": "Noah",
+    "lastName": "Lee"
+  },
+  {
+    "userName": "ava_green",
+    "password": "GreenPass10@",
+    "firstName": "Ava",
+    "lastName": "Green"
+  },
+  {
+    "userName": "mason_clark",
+    "password": "ClarkPass11#",
+    "firstName": "Mason",
+    "lastName": "Clark"
+  },
+  {
+    "userName": "sophia_taylor",
+    "password": "TaylorPass12$",
+    "firstName": "Sophia",
+    "lastName": "Taylor"
+  },
+  {
+    "userName": "jack_anderson",
+    "password": "AndersonPass13%",
+    "firstName": "Jack",
+    "lastName": "Anderson"
+  },
+  {
+    "userName": "isabella_harris",
+    "password": "HarrisPass14^",
+    "firstName": "Isabella",
+    "lastName": "Harris"
+  },
+  {
+    "userName": "elijah_lewis",
+    "password": "LewisPass15*",
+    "firstName": "Elijah",
+    "lastName": "Lewis"
+  },
+  {
+    "userName": "mia_rodriguez",
+    "password": "RodriguezPass16&",
+    "firstName": "Mia",
+    "lastName": "Rodriguez"
+  },
+  {
+    "userName": "lucas_wilson",
+    "password": "WilsonPass17@",
+    "firstName": "Lucas",
+    "lastName": "Wilson"
+  },
+  {
+    "userName": "charlotte_moore",
+    "password": "MoorePass18#",
+    "firstName": "Charlotte",
+    "lastName": "Moore"
+  },
+  {
+    "userName": "aiden_taylor",
+    "password": "TaylorPass19$",
+    "firstName": "Aiden",
+    "lastName": "Taylor"
+  },
+  {
+    "userName": "harper_adams",
+    "password": "AdamsPass20%",
+    "firstName": "Harper",
+    "lastName": "Adams"
+  },
+  {
+    "userName": "james_davis",
+    "password": "DavisPass21^",
+    "firstName": "James",
+    "lastName": "Davis"
+  },
+  {
+    "userName": "evelyn_brown",
+    "password": "BrownPass22*",
+    "firstName": "Evelyn",
+    "lastName": "Brown"
+  }
+]
